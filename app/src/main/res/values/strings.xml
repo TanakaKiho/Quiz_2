@@ -1,3 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Quiz_2</string>
+    <string name="app_name">Quiz</string>
+    <string name="Title">ジャンル選択</string>
+    <string name="genreText">このジャンルで　始める</string>
+
+
+    <string-array name="planets_array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
 </resources>
