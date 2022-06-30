@@ -1,4 +1,4 @@
-package com.example.quiz
+package com.example.quiz_2
 
 import android.os.Bundle
 import android.widget.AdapterView
